@@ -29,6 +29,7 @@ espeakup
 ethtool
 exfatprogs
 f2fs-tools
+fastfetch
 fatresize
 foot-terminfo
 fsarchiver
@@ -59,7 +60,6 @@ livecd-sounds
 lsscsi
 lvm2
 lynx
-macchina
 man-db
 man-pages
 mc
